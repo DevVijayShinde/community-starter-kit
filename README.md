@@ -1,10 +1,16 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Probot is an open source framework that allows you to create GitHub apps to automate your GitHub workflow. 
+- Probot is also an example of a great community be sure to stop by and check them out.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- All Contributors - Easily recognize all contributions per the all-contributors spec
+- ApproveMan - Approves pull requests with safe changes for protected branches.
+- Auto Assign - Add reviewers/assignees to pull requests when pull requests are opened.
+- Auto-comment - Comments on new issues and pull requests based on your configuration.
+- Autoapproval - Approve pull requests using configurations
+- Background Check - Notifies maintainers when new contributors who have been toxic in the past join the project
 
 ## Getting started
 
